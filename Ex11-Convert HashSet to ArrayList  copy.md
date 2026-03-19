@@ -1,7 +1,8 @@
 # Ex11 Convert HashSet to ArrayList in Java
 
 ## DATE:
-10.11.2025  
+18.02.2026
+
 
 ## AIM:
 To convert a collection of distinct integers stored in a HashSet into an ArrayList and display its contents.
